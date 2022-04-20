@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ThalesR/AndroidStudioProjects/amsdigital/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.221" />
+        <entry key="..\:/Users/ThalesR/AndroidStudioProjects/amsdigital/app/src/main/res/drawable/background_button.xml" value="0.221" />
         <entry key="..\:/Users/ThalesR/AndroidStudioProjects/amsdigital/app/src/main/res/drawable/background_preload.xml" value="0.221" />
+        <entry key="..\:/Users/ThalesR/AndroidStudioProjects/amsdigital/app/src/main/res/drawable/border_edittext.xml" value="0.221" />
+        <entry key="..\:/Users/ThalesR/AndroidStudioProjects/amsdigital/app/src/main/res/layout/activity_login.xml" value="0.3625" />
         <entry key="..\:/Users/ThalesR/AndroidStudioProjects/amsdigital/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/ThalesR/AndroidStudioProjects/amsdigital/app/src/main/res/layout/preload_activity.xml" value="0.18541666666666667" />
       </map>
     </option>
   </component>
